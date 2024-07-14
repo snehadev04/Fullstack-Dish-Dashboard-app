@@ -102,10 +102,3 @@ For any issues or questions regarding this project, please open an issue - https
 This project is for personal use and not licensed.
 
 ```
-
-### Customization Tips:
-- Replace `<repository_url>` with the actual URL of your GitHub repository.
-- Update links in the "Author" section with your profile and GitHub repository.
-- Add screenshots by placing them in a `screenshots` directory within your project and referencing them in the README.md file.
-
-This README.md file provides a detailed overview of your project, setup instructions, and customization tips for others who might want to use or contribute to your project.
