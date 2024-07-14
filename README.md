@@ -1,5 +1,5 @@
 
-# Full Stack Dish Management App
+# Full Stack Dish Dasboard Management App
 
 This project is a full-stack application for managing and displaying dish information. 
 It includes a database setup, API development with Flask, and a front-end dashboard built with React.js.
